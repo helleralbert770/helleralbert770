@@ -1,8 +1,7 @@
-![Header](https://github.com/helleralbert770/helleralbert770/blob/main/assets/7npck8nr.png)
+![Header](https://raw.githubusercontent.com/helleralbert770/helleralbert770/main/assets/7npck8nr.png)
 
+## About me
 
-About me
+## Languages and Tools
 
-Languages and Tools
-
-Follow Me
+## Follow Me
