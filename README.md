@@ -19,6 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helleralbert770&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile Views](https://komarev.com/ghpvc/?username=helleralbert770&color=brightgreen)
 
 
 
