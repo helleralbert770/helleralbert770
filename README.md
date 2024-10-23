@@ -11,3 +11,19 @@
 ## Follow Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/AlberttGeller)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/heller_familie/)
+
+## 📊 GitHub Stats
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=helleralbert770&count_private=true&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=helleralbert770&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helleralbert770&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
