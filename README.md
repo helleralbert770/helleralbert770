@@ -24,14 +24,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=helleralbert770&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helleralbert770&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helleralbert770&layout=donut-vertical&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helleralbert770&theme=dracula)](https://github.com/anuraghazra/github-readme-activity-graph)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=helleralbert770&color=brightgreen)
-
-
-
-
-
-
-
 
