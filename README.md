@@ -15,10 +15,12 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-
 ## Follow Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/AlberttGeller)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/heller_familie/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-heller-431305332/)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ukrainian/AlbertHeller)
+
 
 ## 📊 GitHub Stats
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=helleralbert770&count_private=true&show_icons=true&theme=dark)
